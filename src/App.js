@@ -240,7 +240,7 @@ class App extends Component {
                 </div>
               </div>
             <div className="footer-class w3-agile">
-              <p>© 2017 FET 2017, Designers </p>
+              <p>© 2023, Designers </p>
             </div>
         </div>
       </div>
